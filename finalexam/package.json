@@ -1,7 +1,7 @@
 {
   "name": "finalexam",
   "version": "0.1.0",
-  "homepage": "http://Mads942n.github.io/coding/finalexam",
+  "homepage": "http://Mads942n.github.io/coding",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
