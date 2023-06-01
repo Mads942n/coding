@@ -1,9 +1,9 @@
 {
   "main.css": "/coding/static/css/main.37416105.chunk.css",
-  "main.js": "/coding/static/js/main.18436957.chunk.js",
-  "main.js.map": "/coding/static/js/main.18436957.chunk.js.map",
-  "static/js/1.6ab0c6d7.chunk.js": "/coding/static/js/1.6ab0c6d7.chunk.js",
-  "static/js/1.6ab0c6d7.chunk.js.map": "/coding/static/js/1.6ab0c6d7.chunk.js.map",
+  "main.js": "/coding/static/js/main.8c175d0e.chunk.js",
+  "main.js.map": "/coding/static/js/main.8c175d0e.chunk.js.map",
+  "static/js/1.6aa5c775.chunk.js": "/coding/static/js/1.6aa5c775.chunk.js",
+  "static/js/1.6aa5c775.chunk.js.map": "/coding/static/js/1.6aa5c775.chunk.js.map",
   "runtime~main.js": "/coding/static/js/runtime~main.f9659ff0.js",
   "runtime~main.js.map": "/coding/static/js/runtime~main.f9659ff0.js.map",
   "static/media/plismaskine.svg": "/coding/static/media/plismaskine.c9094fd6.svg",
@@ -12,6 +12,6 @@
   "static/media/useradmin.svg": "/coding/static/media/useradmin.9a29f5d2.svg",
   "static/css/main.37416105.chunk.css.map": "/coding/static/css/main.37416105.chunk.css.map",
   "index.html": "/coding/index.html",
-  "precache-manifest.591490473fd720b4e17e8d74138d19b6.js": "/coding/precache-manifest.591490473fd720b4e17e8d74138d19b6.js",
+  "precache-manifest.28e0fe710b5bcc6e9b331e88a5ac3cc9.js": "/coding/precache-manifest.28e0fe710b5bcc6e9b331e88a5ac3cc9.js",
   "service-worker.js": "/coding/service-worker.js"
 }
