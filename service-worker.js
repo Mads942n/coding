@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/finalexam/precache-manifest.d0119d672ac2f98d2ee17eb0f0b2370c.js"
+  "/coding/finalexam/precache-manifest.b6480b48640369d43c16f60c8c799aa6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/finalexam/index.html", {
+workbox.routing.registerNavigationRoute("/coding/finalexam/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
